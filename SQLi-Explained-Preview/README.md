@@ -21,7 +21,7 @@ of this public preview.
 
 ## Get the complete package
 
-[Full book and local practice kit](REPLACE_WITH_YOUR_NEW_GUMROAD_URL)
+[Full book and local practice kit](https://haroonshahid.gumroad.com/l/sql-injection-explained)
 
 The full edition includes 40 illustrated chapters, 120 answered checks,
 18 SQL exercises, 14 missions across 13 local rooms, revision sheets, and
