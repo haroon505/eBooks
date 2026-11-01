@@ -16,7 +16,7 @@ The sample includes the introduction, learning roadmap and Chapters 1–3. It st
 - A fixed-loopback Node lab with dummy data, reversible actions and connection traces.
 - Review templates, decision flows, implementation recipes, glossary and sources.
 
-[Get the full ebook and practice kit](REPLACE_WITH_GUMROAD_URL)
+[Get the full ebook and practice kit](https://haroonshahid.gumroad.com/l/ssrf-explained)
 
 The full paid publication is not included in this repository. The preview may be shared unchanged with attribution. Practice is for systems and destinations you own or are explicitly authorized to assess.
 
