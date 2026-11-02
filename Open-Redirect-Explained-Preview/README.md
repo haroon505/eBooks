@@ -16,7 +16,7 @@ The sample includes the introduction, learning roadmap and Chapters 1-3. It star
 - Fixed-local Node.js practice with dummy data and selected code/state/PKCE checks.
 - Evidence, reporting, regression and mastery templates; glossary, index and primary references.
 
-[Get the complete ebook and practice kit](REPLACE_WITH_GUMROAD_URL)
+[Get the complete ebook and practice kit](https://haroonshahid.gumroad.com/l/open-redirect-explained)
 
 The paid manuscript and lab are not in this repository. The preview may be shared unchanged with attribution. Practice only on systems you own or are explicitly authorized to assess.
 
