@@ -10,7 +10,7 @@ A request being sent is different from a response being readable. This visual eb
 
 The full kit includes 59 chapters, 112 original chapter diagrams, 177 answered knowledge checks, prediction exercises, worked review cases, and a local fictional practice lab. It explains public-sharing non-findings as well as private reflection, wrong-port matches, null origins, token chains, preflight caching, and secure repairs.
 
-[Get the full ebook and local learning kit](GUMROAD_PRODUCT_URL).
+[Get the full ebook and local learning kit](https://haroonshahid.gumroad.com/l/cors-explained).
 
 The book reads offline. The optional local lab needs Node 24+ and a desktop browser. Its Validation Report states the tested engine and distinguishes executed local examples from reviewed framework and cloud guidance.
 
