@@ -16,7 +16,7 @@ The preview contains the introduction, learning roadmap, and Chapters 1–3. It 
 - Harbor Desk: a fixed-loopback Node.js lab with dummy accounts, reversible effects, and vulnerable/safe routes.
 - Templates, decision flows, implementation recipes, glossary, index, and sources.
 
-[Get the full ebook and practice kit](REPLACE_WITH_GUMROAD_URL)
+[Get the full ebook and practice kit](https://haroonshahid.gumroad.com/l/idor-explained)
 
 Practice only on systems and accounts you own or are explicitly authorized to assess. The paid manuscript and lab are not in this repository. The preview may be shared unchanged with attribution.
 
