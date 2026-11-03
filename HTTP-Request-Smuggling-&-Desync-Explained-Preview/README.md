@@ -16,7 +16,7 @@ The sample includes the introduction, roadmap and Chapters 1-3: protocols and au
 - Optional Python standard-library workshop with finite H1 models, real loopback byte transport, a native response bench and explicit translation/lifecycle simulations.
 - Hop passport, evidence/report worksheets, recipes, contract atlas, glossary, primary-source catalog and linked index.
 
-[Get the full ebook and practice kit](REPLACE_WITH_GUMROAD_URL)
+[Get the full ebook and practice kit](https://haroonshahid.gumroad.com/l/http-request-smuggling-and-desync-explained)
 
 The lab needs a supported Python 3 release compatible with Python 3.11+, a browser and free local port 8995. Socket mode also opens a temporary loopback port. No third-party packages or public target are required. Models are not production proxy implementations or CVE reproductions. Native H2/H3, real pooling, browser exploit delivery, clouds and cache/multi-user impact require actual integration/deployment validation. The included Validation Report states executed checks and limits.
 
