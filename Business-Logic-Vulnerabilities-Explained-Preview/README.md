@@ -15,7 +15,7 @@ The sample includes the introduction, learning roadmap and Chapters 1-3: feature
 - RuleForge: actual SQLite transactions, constraints, local HMAC event verification, competing HTTP calls and dummy protected effects.
 - Rule/evidence worksheets, contract atlas, reporting/regression tools, glossary, linked index and primary sources.
 
-The full ebook and practice kit will be available on Gumroad after launch.
+[Get the complete ebook and practice kit](https://haroonshahid.gumroad.com/l/business-logic-vulnerabilities-explained)
 
 The optional lab needs Python 3.11+ with sqlite3, a browser and local port 8970. No third-party package installation is required. All value and effects are fictional. Fixtures are privileged teaching controls. Real providers, frameworks, inventory, subscriptions and distributed deployments need their own integration tests. This is education, not certification or a guarantee of results.
 
