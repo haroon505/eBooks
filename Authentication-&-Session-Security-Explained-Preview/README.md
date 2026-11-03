@@ -15,7 +15,7 @@ The sample includes the introduction, learning roadmap and Chapters 1-3: the acc
 - Identity Harbor: real local password hashing, TOTP, session state, recovery grants, JWT checks and refresh rotation.
 - Credential/evidence worksheets, contract atlas, reporting/regression tools, glossary, linked index and primary sources.
 
-The full ebook and practice kit will be available on Gumroad after launch.
+[Get the complete ebook and practice kit](REPLACE_WITH_GUMROAD_URL)
 
 The optional lab needs Python 3.11+, a browser and local port 8960. No third-party packages are required. Fixtures are privileged teaching controls. WebAuthn, providers, real message delivery, frameworks and distributed deployments need their own integration tests. This is education, not certification or a guarantee of results.
 
