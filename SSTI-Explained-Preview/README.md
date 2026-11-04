@@ -15,6 +15,6 @@ The sample includes the introduction, roadmap and Chapters 1-3. It starts with t
 - Real restricted Jinja practice with fixed dummy effects, stored drafts and manual queued snapshots.
 - Engine atlas, evidence/reporting templates, regression matrix, mastery tracker, glossary, index and primary sources.
 
-The full ebook and practice kit will be available on Gumroad after launch.
+[Get the full ebook and practice kit on Gumroad](https://haroonshahid.gumroad.com/l/ssti-explained).
 
 The paid manuscript and lab are not in this preview repository. The sample may be shared unchanged with attribution. The optional lab needs Python 3.11+ and a modern browser; dependencies are bundled. Other engines and deployment guidance require environment-specific review. No certification or guaranteed expertise is claimed.

@@ -20,4 +20,4 @@ The sample includes the introduction, roadmap and Chapters 1-3: protocols and au
 
 The lab needs a supported Python 3 release compatible with Python 3.11+, a browser and free local port 8995. Socket mode also opens a temporary loopback port. No third-party packages or public target are required. Models are not production proxy implementations or CVE reproductions. Native H2/H3, real pooling, browser exploit delivery, clouds and cache/multi-user impact require actual integration/deployment validation. The included Validation Report states executed checks and limits.
 
-The unchanged preview may be shared with attribution. Education only; no certification or results guarantee. For help or corrections, email gaknt19@gmail.com.
+The unchanged preview may be shared with attribution. Education only; no certification or results guarantee. For help or corrections, email gaknt2@gmail.com.

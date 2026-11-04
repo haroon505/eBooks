@@ -8,6 +8,6 @@ Follow the bytes. Understand the reconstruction. Keep authority at the receiver.
 
 The complete guide includes 113 pages, 65 chapters, 155 explained checks, 14 worked traces and 28 local scenarios with comparisons.
 
-The full ebook and practice kit will be available on Gumroad after launch.
+[Get the full ebook and practice kit on Gumroad](https://haroonshahid.gumroad.com/l/insecure-deserialization-explained).
 
 By Haroon Shahid. Unchanged preview may be shared with attribution.

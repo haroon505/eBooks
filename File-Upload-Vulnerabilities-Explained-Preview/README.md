@@ -1,22 +1,20 @@
-# Authentication & Session Security Explained - free preview
+# File Upload Vulnerabilities Explained — free preview
 
-![Book cover](cover.png)
+![Cover of File Upload Vulnerabilities Explained](cover.png)
 
-A visual learning kit by **Haroon Shahid** about account evidence, current authority and secure identity lifecycles.
+What happens to a file after the Upload button says success? This visual guide by **Haroon Shahid** follows a file from the browser through validation, storage, scanning, and delivery.
 
-[Read the free preview](Authentication_and_Session_Security_Explained_Free_Preview.pdf)
-
-The sample includes the introduction, learning roadmap and Chapters 1-3: the account journey, browser/server requests, and cookie/session foundations.
+[Read the free PDF preview](File_Upload_Vulnerabilities_Explained_Free_Preview.pdf). It includes the introduction, learning roadmap, and first three chapters.
 
 ## Complete learning kit
-- 64 chapters; a linked 188-page PDF and responsive offline HTML.
-- 128 chapter/revision diagrams, 16 extra flow models and a dependency map.
-- 192 explained checks; 48 predictions; 36 guided missions; 28 worked cases.
-- Identity Harbor: real local password hashing, TOTP, session state, recovery grants, JWT checks and refresh rotation.
-- Credential/evidence worksheets, contract atlas, reporting/regression tools, glossary, linked index and primary sources.
 
-[Get the complete ebook and practice kit](REPLACE_WITH_GUMROAD_URL)
+- A linked 164-page PDF and an offline HTML edition.
+- 56 chapters and 168 knowledge checks with explained answers.
+- 40 prediction exercises, 32 guided local missions, and 24 worked review cases.
+- DocDock, a local Python lab with real file uploads and examples of quarantine, private reads, and signed links.
 
-The optional lab needs Python 3.11+, a browser and local port 8960. No third-party packages are required. Fixtures are privileged teaching controls. WebAuthn, providers, real message delivery, frameworks and distributed deployments need their own integration tests. This is education, not certification or a guarantee of results.
+[Get the complete ebook and practice kit on Gumroad](https://haroonshahid.gumroad.com/l/file-upload-vulnerabilities-explained).
 
-The paid manuscript and lab are not part of this public sample. The free preview may be shared unchanged with attribution.
+The PDF and HTML can be read offline. The optional lab needs Python 3.11 or later, a browser, and free local ports 8950 and 8951. It uses fictional files and accounts.
+
+The paid ebook and lab are separate from this public sample. The free preview may be shared unchanged with attribution. For help or corrections, email [gaknt2@gmail.com](mailto:gaknt2@gmail.com).

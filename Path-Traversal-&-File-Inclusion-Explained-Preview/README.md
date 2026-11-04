@@ -14,8 +14,8 @@ The sample includes the introduction, learning roadmap and Chapters 1-3: files a
 - 48 predictions, 36 guided missions and 28 synthetic worked cases.
 - Optional Pathwright Python lab, evidence worksheets, recipes, contract atlas, glossary, index and primary sources.
 
-The full ebook and practice kit will be available on Gumroad after launch.
+[Get the full ebook and practice kit on Gumroad](https://haroonshahid.gumroad.com/l/path-traversal-and-file-inclusion-explained).
 
 The optional lab uses Python 3.11+ and free local port 8980. No third-party package installation is needed. Link and descriptor features depend on the host. It uses owned dummy files and fixed original Python fragments, not real secrets or arbitrary executable uploads. PHP, Windows filesystem and other integrations are review guidance. This is education, not certification or a guarantee of results.
 
-The paid ebook, lab and publisher sources are not included in this public sample. The preview may be shared unchanged with attribution. For help or corrections, email gaknt19@gmail.com.
+The paid ebook, lab and publisher sources are not included in this public sample. The preview may be shared unchanged with attribution. For help or corrections, email gaknt2@gmail.com.
