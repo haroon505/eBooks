@@ -4,7 +4,7 @@
 
 A visual guide from browser basics to finding, proving, and preventing request forgery, by Haroon Shahid.
 
-[Read the free preview](CSRF_Explained_Free_Preview.pdf): introduction, learning roadmap, and the first three chapters.
+[Read the free preview](CSRF_Explained_Free_Preview.pdf): Introduction, learning roadmap, and the first three chapters.
 
 [Get the full ebook and learning kit](https://haroonshahid.gumroad.com/l/csrf-explained).
 
