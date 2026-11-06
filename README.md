@@ -2,7 +2,7 @@
 
 Learn how web vulnerabilities work, how to prove them in authorized environments, and how to fix the underlying design. The guides start with the basics and build toward practical security review.
 
-Browse 25 web security ebooks by topic. Each page has a free PDF sample and a link to the complete learning kit on Gumroad.
+Browse 25 free web security ebook previews by topic. The catalog links to complete learning kits as they become available on Gumroad.
 
 New to web security? Start with [XSS Explained](./XSS-Explained-Preview/) for browser foundations or [SQL Injection Explained](./SQLi-Explained-Preview/) for database foundations.
 
@@ -19,8 +19,8 @@ New to web security? Start with [XSS Explained](./XSS-Explained-Preview/) for br
 
 | Ebook | Free preview | Full edition |
 | --- | --- | --- |
-| Clickjacking Explained | [Read the preview](./Clickjacking-Explained-Preview/) | [View on Gumroad](https://haroonshahid.gumroad.com/l/clickjacking-explained) |
-| Prototype Pollution Explained | [Read the preview](./Prototype-Pollution-Explained-Preview/) | [View on Gumroad](https://haroonshahid.gumroad.com/l/prototype-pollution-explained) |
+| Clickjacking Explained | [Read the preview](./Clickjacking-Explained-Preview/) | Awaiting release |
+| Prototype Pollution Explained | [Read the preview](./Prototype-Pollution-Explained-Preview/) | Awaiting release |
 
 ## Access, identity, and application logic
 
@@ -30,7 +30,7 @@ New to web security? Start with [XSS Explained](./XSS-Explained-Preview/) for br
 | Open Redirect Explained | [Read the preview](./Open-Redirect-Explained-Preview/) | [View on Gumroad](https://haroonshahid.gumroad.com/l/open-redirect-explained) |
 | Authentication & Session Security Explained | [Read the preview](./Authentication-%26-Session-Security-Explained-Preview/) | [View on Gumroad](https://haroonshahid.gumroad.com/l/authentication-and-session-security-explained) |
 | Business Logic Vulnerabilities Explained | [Read the preview](./Business-Logic-Vulnerabilities-Explained-Preview/) | [View on Gumroad](https://haroonshahid.gumroad.com/l/business-logic-vulnerabilities-explained) |
-| Race Conditions Explained | [Read the preview](./Race-Conditions-Explained-Preview/) | [View on Gumroad](https://haroonshahid.gumroad.com/l/race-conditions-explained) |
+| Race Conditions Explained | [Read the preview](./Race-Conditions-Explained-Preview/) | Awaiting release |
 
 ## Server-side execution and data handling
 
@@ -43,7 +43,7 @@ New to web security? Start with [XSS Explained](./XSS-Explained-Preview/) for br
 | OS Command Injection Explained | [Read the preview](./OS-Command-Injection-Explained-Preview/) | [View on Gumroad](https://haroonshahid.gumroad.com/l/os-command-injection-explained) |
 | XXE Injection Explained | [Read the preview](./XXE-Injection-Explained/) | [View on Gumroad](https://haroonshahid.gumroad.com/l/xxe-injection-explained) |
 | Insecure Deserialization Explained | [Read the preview](./Insecure-Deserialization-Explained-Preview/) | [View on Gumroad](https://haroonshahid.gumroad.com/l/insecure-deserialization-explained) |
-| NoSQL Injection Explained | [Read the preview](./NoSQL-Injection-Explained-Preview/) | [View on Gumroad](https://haroonshahid.gumroad.com/l/nosql-injection-explained) |
+| NoSQL Injection Explained | [Read the preview](./NoSQL-Injection-Explained-Preview/) | Awaiting release |
 
 ## HTTP infrastructure
 
@@ -51,19 +51,19 @@ New to web security? Start with [XSS Explained](./XSS-Explained-Preview/) for br
 | --- | --- | --- |
 | HTTP Request Smuggling & Desync Explained | [Read the preview](./HTTP-Request-Smuggling-%26-Desync-Explained-Preview/) | [View on Gumroad](https://haroonshahid.gumroad.com/l/http-request-smuggling-and-desync-explained) |
 | Web Cache Poisoning & Deception Explained | [Read the preview](./Web-Cache-Poisoning-%26-Deception-Explained-Preview/) | [View on Gumroad](https://haroonshahid.gumroad.com/l/web-cache-poisoning-and-deception-explained) |
-| HTTP Host Header Attacks Explained | [Read the preview](./HTTP-Host-Header-Attacks-Explained-Preview/) | [View on Gumroad](https://haroonshahid.gumroad.com/l/http-host-header-attacks-explained) |
+| HTTP Host Header Attacks Explained | [Read the preview](./HTTP-Host-Header-Attacks-Explained-Preview/) | Awaiting release |
 
 ## APIs and real-time communication
 
 | Ebook | Free preview | Full edition |
 | --- | --- | --- |
-| GraphQL API Security Explained | [Read the preview](./GraphQL-API-Security-Explained-Preview/) | [View on Gumroad](https://haroonshahid.gumroad.com/l/graphql-api-security-explained) |
-| WebSocket Security Explained | [Read the preview](./WebSocket-Security-Explained-Preview/) | [View on Gumroad](https://haroonshahid.gumroad.com/l/websocket-security-explained) |
+| GraphQL API Security Explained | [Read the preview](./GraphQL-API-Security-Explained-Preview/) | Awaiting release |
+| WebSocket Security Explained | [Read the preview](./WebSocket-Security-Explained-Preview/) | Awaiting release |
 
 ## AI application security
 
 | Ebook | Free preview | Full edition |
 | --- | --- | --- |
-| Web LLM Attacks Explained | [Read the preview](./Web-LLM-Attacks-Explained-Preview/) | [View on Gumroad](https://haroonshahid.gumroad.com/l/web-llm-attacks-explained) |
+| Web LLM Attacks Explained | [Read the preview](./Web-LLM-Attacks-Explained-Preview/) | Awaiting release |
 
 [Browse Haroon Shahid’s Gumroad store](https://haroonshahid.gumroad.com). For questions or corrections, email [gaknt2@gmail.com](mailto:gaknt2@gmail.com).
