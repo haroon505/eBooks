@@ -1,20 +1,23 @@
-# SSTI Explained - free preview
+# SSTI Explained — Free Preview
 
-![SSTI Explained cover](cover.png)
+![SSTI Explained cover](./cover.png)
 
-A visual learning kit by **Haroon Shahid** about template trust, controlled evidence and safer rendering systems.
+Separate template source from user data and see what changes when a rendering engine treats input as instructions.
 
-[Read the free preview](SSTI_Explained_Free_Preview.pdf)
+## Read the free sample
 
-The sample includes the introduction, roadmap and Chapters 1-3. It starts with templates, web requests, and the difference between output escaping and source interpretation.
+The 13-page preview includes the introduction, learning roadmap, and first three chapters.
 
-## Full learning kit
-- 56 chapters; linked PDF and responsive offline HTML.
-- 112 chapter/revision diagrams, 12 additional flow models and a dependency map.
-- 168 answered checks; 40 predictions; 32 guided missions; 24 worked cases.
-- Real restricted Jinja practice with fixed dummy effects, stored drafts and manual queued snapshots.
-- Engine atlas, evidence/reporting templates, regression matrix, mastery tracker, glossary, index and primary sources.
+- [Open the preview PDF](./SSTI_Explained_Free_Preview.pdf)
 
-[Get the full ebook and practice kit on Gumroad](https://haroonshahid.gumroad.com/l/ssti-explained).
+## Get the full learning kit
 
-The paid manuscript and lab are not in this preview repository. The sample may be shared unchanged with attribution. The optional lab needs Python 3.11+ and a modern browser; dependencies are bundled. Other engines and deployment guidance require environment-specific review. No certification or guaranteed expertise is claimed.
+The full edition includes a 174-page PDF with 56 chapters, an offline HTML reading edition, and **Render Forge** for optional local practice.
+
+Practice materials include 168 answered checks, 32 guided missions, and 24 worked cases. The optional lab uses Python 3.11+ and a browser, with dependencies bundled.
+
+[Get SSTI Explained on Gumroad](https://haroonshahid.gumroad.com/l/ssti-explained)
+
+The preview may be shared unchanged with attribution.
+
+Written by Haroon Shahid. For questions or corrections, email [gaknt2@gmail.com](mailto:gaknt2@gmail.com). [See all free previews](../README.md).

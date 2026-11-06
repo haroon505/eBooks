@@ -1,20 +1,23 @@
-# File Upload Vulnerabilities Explained — free preview
+# File Upload Vulnerabilities Explained — Free Preview
 
-![Cover of File Upload Vulnerabilities Explained](cover.png)
+![File Upload Vulnerabilities Explained cover](./cover.png)
 
-What happens to a file after the Upload button says success? This visual guide by **Haroon Shahid** follows a file from the browser through validation, storage, scanning, and delivery.
+Follow a file after upload through validation, storage, scanning, and delivery to see where controls can fail.
 
-[Read the free PDF preview](File_Upload_Vulnerabilities_Explained_Free_Preview.pdf). It includes the introduction, learning roadmap, and first three chapters.
+## Read the free sample
 
-## Complete learning kit
+The 14-page preview includes the introduction, learning roadmap, and first three chapters.
 
-- A linked 164-page PDF and an offline HTML edition.
-- 56 chapters and 168 knowledge checks with explained answers.
-- 40 prediction exercises, 32 guided local missions, and 24 worked review cases.
-- DocDock, a local Python lab with real file uploads and examples of quarantine, private reads, and signed links.
+- [Open the preview PDF](./File_Upload_Vulnerabilities_Explained_Free_Preview.pdf)
 
-[Get the complete ebook and practice kit on Gumroad](https://haroonshahid.gumroad.com/l/file-upload-vulnerabilities-explained).
+## Get the full learning kit
 
-The PDF and HTML can be read offline. The optional lab needs Python 3.11 or later, a browser, and free local ports 8950 and 8951. It uses fictional files and accounts.
+The full edition includes a 164-page PDF with 56 chapters, an offline HTML reading edition, and **DocDock** for optional local practice.
 
-The paid ebook and lab are separate from this public sample. The free preview may be shared unchanged with attribution. For help or corrections, email [gaknt2@gmail.com](mailto:gaknt2@gmail.com).
+Practice materials include 168 answered checks, 32 guided lab missions, and 24 worked review cases. The optional lab uses Python 3.11+ and a browser with fictional files and accounts.
+
+[Get File Upload Vulnerabilities Explained on Gumroad](https://haroonshahid.gumroad.com/l/file-upload-vulnerabilities-explained)
+
+The preview may be shared unchanged with attribution.
+
+Written by Haroon Shahid. For questions or corrections, email [gaknt2@gmail.com](mailto:gaknt2@gmail.com). [See all free previews](../README.md).

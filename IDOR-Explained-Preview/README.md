@@ -1,23 +1,23 @@
-# IDOR Explained — free preview
+# IDOR Explained — Free Preview
 
-![IDOR Explained cover](cover.png)
+![IDOR Explained cover](./cover.png)
 
-A visual guide by **Haroon Shahid** to understanding object permissions, proving access-control failures, and building safer APIs.
+Follow an object reference from a request to the permission check that should protect the record.
 
-[Read the free preview](IDOR_Explained_Free_Preview.pdf)
+## Read the free sample
 
-The preview contains the introduction, learning roadmap, and Chapters 1–3. It begins with objects, references, web requests, identity, and sessions.
+The 13-page preview includes the introduction, learning roadmap, and first three chapters.
 
-## The full learning kit
+- [Open the preview PDF](./IDOR_Explained_Free_Preview.pdf)
 
-- 60 chapters; linked PDF and responsive offline HTML.
-- 120 original chapter/revision diagrams plus a dependency map.
-- 180 answered checks, 40 predictions, 24 worked review cases, and 32 local missions.
-- Harbor Desk: a fixed-loopback Node.js lab with dummy accounts, reversible effects, and vulnerable/safe routes.
-- Templates, decision flows, implementation recipes, glossary, index, and sources.
+## Get the full learning kit
 
-[Get the full ebook and practice kit](https://haroonshahid.gumroad.com/l/idor-explained)
+The full edition includes a 179-page PDF with 60 chapters, an offline HTML reading edition, and **Harbor Desk** for optional local practice.
 
-Practice only on systems and accounts you own or are explicitly authorized to assess. The paid manuscript and lab are not in this repository. The preview may be shared unchanged with attribution.
+Practice materials include 180 answered checks, 32 guided lab missions, and 24 worked review cases. The optional lab needs Node.js 24+ and uses fictional accounts on local addresses.
 
-The local lab requires Node.js 24+. Cloud, database, distributed, and framework guidance needs deployment-specific verification. The publication does not certify expertise.
+[Get IDOR Explained on Gumroad](https://haroonshahid.gumroad.com/l/idor-explained)
+
+The preview may be shared unchanged with attribution.
+
+Written by Haroon Shahid. For questions or corrections, email [gaknt2@gmail.com](mailto:gaknt2@gmail.com). [See all free previews](../README.md).

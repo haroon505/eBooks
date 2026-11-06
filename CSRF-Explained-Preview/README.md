@@ -1,13 +1,23 @@
-# CSRF Explained - free preview
+# CSRF Explained — Free Preview
 
-![CSRF Explained cover](cover.png)
+![CSRF Explained cover](./cover.png)
 
-A visual guide from browser basics to finding, proving, and preventing request forgery, by Haroon Shahid.
+Follow a request from the browser to the server and see how a signed-in session can be used to trigger an unwanted action.
 
-[Read the free preview](CSRF_Explained_Free_Preview.pdf): Introduction, learning roadmap, and the first three chapters.
+## Read the free sample
 
-[Get the full ebook and learning kit](https://haroonshahid.gumroad.com/l/csrf-explained).
+The 13-page preview includes the introduction, learning roadmap, and first three chapters.
 
-The full package includes 48 chapters, 83 teaching figures, 144 answered checks, offline reading, local lab missions, worked review cases, and revision resources. The practice lab uses fictional accounts on fixed loopback addresses and requires Node.js 24+.
+- [Open the preview PDF](./CSRF_Explained_Free_Preview.pdf)
 
-The preview may be shared unchanged with attribution. This repository contains the public sample; the paid publication has a separate license.
+## Get the full learning kit
+
+The full edition includes a 148-page PDF with 48 chapters, an offline HTML reading edition, and **Cedar Notes** for optional local practice.
+
+Practice materials include 144 answered checks, guided lab missions, and worked review cases. The optional lab uses Node.js 24+ and fictional accounts on local addresses.
+
+[Get CSRF Explained on Gumroad](https://haroonshahid.gumroad.com/l/csrf-explained)
+
+The preview may be shared unchanged with attribution.
+
+Written by Haroon Shahid. For questions or corrections, email [gaknt2@gmail.com](mailto:gaknt2@gmail.com). [See all free previews](../README.md).

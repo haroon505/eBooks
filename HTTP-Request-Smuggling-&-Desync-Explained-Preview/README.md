@@ -1,23 +1,21 @@
-# HTTP Request Smuggling & Desync Explained — free preview
+# HTTP Request Smuggling & Desync Explained — Free Preview
 
-![Book cover](cover.png)
+![HTTP Request Smuggling & Desync Explained cover](./cover.png)
 
-A visual learning kit by **Haroon Shahid** about HTTP message boundaries, parser disagreement, connection state and verified repair.
+Follow bytes through two HTTP readers and see how disagreement over message boundaries can put a connection out of sync.
 
-[Read the free preview](HTTP_Request_Smuggling_and_Desync_Explained_Free_Preview.pdf)
+## Read the free sample
 
-The sample includes the introduction, roadmap and Chapters 1-3: protocols and authority, TCP streams, and HTTP semantics/versions. No prior security knowledge is assumed.
+The 14-page preview includes the introduction, learning roadmap, and first three chapters.
 
-## Complete learning kit
+- [Open the preview PDF](./HTTP_Request_Smuggling_and_Desync_Explained_Free_Preview.pdf)
 
-- 215-page linked PDF and offline HTML, with 72 illustrated chapters.
-- 216 explained chapter checks and 169 original SVG visual assets.
-- 64 predictions, 40 local missions and 36 worked synthetic cases.
-- Optional Python standard-library workshop with finite H1 models, real loopback byte transport, a native response bench and explicit translation/lifecycle simulations.
-- Hop passport, evidence/report worksheets, recipes, contract atlas, glossary, primary-source catalog and linked index.
+## Get the full learning kit
 
-[Get the full ebook and practice kit](https://haroonshahid.gumroad.com/l/http-request-smuggling-and-desync-explained)
+The full edition includes a 215-page PDF with 72 chapters, an offline HTML reading edition, and **Harbor Boundary Observatory** for optional local practice.
 
-The lab needs a supported Python 3 release compatible with Python 3.11+, a browser and free local port 8995. Socket mode also opens a temporary loopback port. No third-party packages or public target are required. Models are not production proxy implementations or CVE reproductions. Native H2/H3, real pooling, browser exploit delivery, clouds and cache/multi-user impact require actual integration/deployment validation. The included Validation Report states executed checks and limits.
+Practice materials include 216 answered checks, 40 local missions, and 36 worked cases. The optional lab uses Python 3.11+ and a browser. It pairs HTTP/1 models with real local byte transport.
 
-The unchanged preview may be shared with attribution. Education only; no certification or results guarantee. For help or corrections, email gaknt2@gmail.com.
+[Get HTTP Request Smuggling & Desync Explained on Gumroad](https://haroonshahid.gumroad.com/l/http-request-smuggling-and-desync-explained)
+
+Written by Haroon Shahid. For questions or corrections, email [gaknt2@gmail.com](mailto:gaknt2@gmail.com). [See all free previews](../README.md).

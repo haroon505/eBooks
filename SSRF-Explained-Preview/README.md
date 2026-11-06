@@ -1,23 +1,23 @@
-# SSRF Explained — free preview
+# SSRF Explained — Free Preview
 
-![SSRF Explained cover](cover.png)
+![SSRF Explained cover](./cover.png)
 
-A visual guide by **Haroon Shahid** to understanding server trust, finding and proving request forgery, and building safer outbound systems.
+Follow an outbound request from the URL an app accepts to the destination its server actually reaches.
 
-[Read the free preview](SSRF_Explained_Free_Preview.pdf)
+## Read the free sample
 
-The sample includes the introduction, learning roadmap and Chapters 1–3. It starts with the difference between browser and server requests, network reachability and DNS.
+The 14-page preview includes the introduction, learning roadmap, and first three chapters.
 
-## The full learning kit
+- [Open the preview PDF](./SSRF_Explained_Free_Preview.pdf)
 
-- 56 chapters; PDF and offline HTML reading editions.
-- 112 original chapter and revision diagrams.
-- 168 answered checks, 36 predictions, 24 worked review cases and 28 local missions.
-- A fixed-loopback Node lab with dummy data, reversible actions and connection traces.
-- Review templates, decision flows, implementation recipes, glossary and sources.
+## Get the full learning kit
 
-[Get the full ebook and practice kit](https://haroonshahid.gumroad.com/l/ssrf-explained)
+The full edition includes a 173-page PDF with 56 chapters, an offline HTML reading edition, and **Request Foundry** for optional local practice.
 
-The full paid publication is not included in this repository. The preview may be shared unchanged with attribution. Practice is for systems and destinations you own or are explicitly authorized to assess.
+Practice materials include 168 answered checks, 28 local missions, and 24 worked review cases. The optional lab needs Node.js 24+ and sends requests only to bundled local services.
 
-The lab uses real local HTTP, injected resolver changes and fictional metadata. Cloud, framework and multi-language guidance requires deployment-specific verification.
+[Get SSRF Explained on Gumroad](https://haroonshahid.gumroad.com/l/ssrf-explained)
+
+The preview may be shared unchanged with attribution.
+
+Written by Haroon Shahid. For questions or corrections, email [gaknt2@gmail.com](mailto:gaknt2@gmail.com). [See all free previews](../README.md).

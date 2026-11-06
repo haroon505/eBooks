@@ -1,22 +1,23 @@
-# Business Logic Vulnerabilities Explained - free preview
+# Business Logic Vulnerabilities Explained — Free Preview
 
-![Book cover](cover.png)
+![Business Logic Vulnerabilities Explained cover](./cover.png)
 
-A visual learning kit by **Haroon Shahid** about application rules, state, protected outcomes and defensible evidence.
+Turn a feature’s intended rules into tests for workflows, state changes, and protected outcomes.
 
-[Read the free preview](Business_Logic_Vulnerabilities_Explained_Free_Preview.pdf)
+## Read the free sample
 
-The sample includes the introduction, learning roadmap and Chapters 1-3: feature promises, browser/server requests, and identity/permission/workflow boundaries.
+The 13-page preview includes the introduction, learning roadmap, and first three chapters.
 
-## Complete learning kit
-- 64 chapters; a linked 193-page PDF and responsive offline HTML.
-- 128 chapter/revision diagrams, 20 extra decision models and a dependency map.
-- 192 explained checks; 56 predictions; 40 guided missions; 32 worked cases.
-- RuleForge: actual SQLite transactions, constraints, local HMAC event verification, competing HTTP calls and dummy protected effects.
-- Rule/evidence worksheets, contract atlas, reporting/regression tools, glossary, linked index and primary sources.
+- [Open the preview PDF](./Business_Logic_Vulnerabilities_Explained_Free_Preview.pdf)
 
-[Get the complete ebook and practice kit](https://haroonshahid.gumroad.com/l/business-logic-vulnerabilities-explained)
+## Get the full learning kit
 
-The optional lab needs Python 3.11+ with sqlite3, a browser and local port 8970. No third-party package installation is required. All value and effects are fictional. Fixtures are privileged teaching controls. Real providers, frameworks, inventory, subscriptions and distributed deployments need their own integration tests. This is education, not certification or a guarantee of results.
+The full edition includes a 193-page PDF with 64 chapters, an offline HTML reading edition, and **RuleForge** for optional local practice.
 
-The paid manuscript and lab are not included in this public sample. The preview may be shared unchanged with attribution.
+Practice materials include 192 answered checks, 40 guided missions, and 32 worked cases. The optional lab requires Python 3.11+ with SQLite support and a browser.
+
+[Get Business Logic Vulnerabilities Explained on Gumroad](https://haroonshahid.gumroad.com/l/business-logic-vulnerabilities-explained)
+
+The preview may be shared unchanged with attribution.
+
+Written by Haroon Shahid. For questions or corrections, email [gaknt2@gmail.com](mailto:gaknt2@gmail.com). [See all free previews](../README.md).

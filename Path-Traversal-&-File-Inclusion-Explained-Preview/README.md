@@ -1,21 +1,23 @@
-# Path Traversal & File Inclusion Explained - free preview
+# Path Traversal & File Inclusion Explained — Free Preview
 
-![Book cover](cover.png)
+![Path Traversal & File Inclusion Explained cover](./cover.png)
 
-A visual learning kit by **Haroon Shahid** about file names, lookup, operation authority and defensible evidence.
+Trace how a server resolves a filename and test whether the resulting file operation stays within its allowed scope.
 
-[Read the free preview](Path_Traversal_and_File_Inclusion_Explained_Free_Preview.pdf)
+## Read the free sample
 
-The sample includes the introduction, learning roadmap and Chapters 1-3: files and names, web-to-file mapping, and relative/absolute starting points.
+The 13-page preview includes the introduction, learning roadmap, and first three chapters.
 
-## Complete kit
-- 168-page linked PDF and offline HTML, with 56 chapters.
-- 168 explained checks and 129 original visual assets.
-- 48 predictions, 36 guided missions and 28 synthetic worked cases.
-- Optional Pathwright Python lab, evidence worksheets, recipes, contract atlas, glossary, index and primary sources.
+- [Open the preview PDF](./Path_Traversal_and_File_Inclusion_Explained_Free_Preview.pdf)
 
-[Get the full ebook and practice kit on Gumroad](https://haroonshahid.gumroad.com/l/path-traversal-and-file-inclusion-explained).
+## Get the full learning kit
 
-The optional lab uses Python 3.11+ and free local port 8980. No third-party package installation is needed. Link and descriptor features depend on the host. It uses owned dummy files and fixed original Python fragments, not real secrets or arbitrary executable uploads. PHP, Windows filesystem and other integrations are review guidance. This is education, not certification or a guarantee of results.
+The full edition includes a 168-page PDF with 56 chapters, an offline HTML reading edition, and **Pathwright** for optional local practice.
 
-The paid ebook, lab and publisher sources are not included in this public sample. The preview may be shared unchanged with attribution. For help or corrections, email gaknt2@gmail.com.
+Practice materials include 168 answered checks, 36 guided missions, and 28 worked cases. The optional lab uses Python 3.11+ and dummy files. Link and descriptor exercises depend on the operating system.
+
+[Get Path Traversal & File Inclusion Explained on Gumroad](https://haroonshahid.gumroad.com/l/path-traversal-and-file-inclusion-explained)
+
+The preview may be shared unchanged with attribution.
+
+Written by Haroon Shahid. For questions or corrections, email [gaknt2@gmail.com](mailto:gaknt2@gmail.com). [See all free previews](../README.md).

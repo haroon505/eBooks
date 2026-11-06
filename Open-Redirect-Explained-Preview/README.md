@@ -1,23 +1,23 @@
-# Open Redirect Explained - free preview
+# Open Redirect Explained — Free Preview
 
-![Open Redirect Explained cover](cover.png)
+![Open Redirect Explained cover](./cover.png)
 
-A visual guide by **Haroon Shahid** to URL trust, controlled proof of unsafe navigation, and safer identity flows.
+Trace where untrusted URLs control navigation and see how redirects can affect sign-in and OAuth flows.
 
-[Read the free preview](Open_Redirect_Explained_Free_Preview.pdf)
+## Read the free sample
 
-The sample includes the introduction, learning roadmap and Chapters 1-3. It starts with trust, web requests and URL anatomy.
+The 13-page preview includes the introduction, learning roadmap, and first three chapters.
 
-## Full learning kit
+- [Open the preview PDF](./Open_Redirect_Explained_Free_Preview.pdf)
 
-- 48 chapters; linked PDF and responsive offline HTML.
-- 96 chapter/revision diagrams, 12 additional flow models and a dependency map.
-- 144 answered checks, 40 predictions, 32 guided missions and 24 review cases.
-- Fixed-local Node.js practice with dummy data and selected code/state/PKCE checks.
-- Evidence, reporting, regression and mastery templates; glossary, index and primary references.
+## Get the full learning kit
 
-[Get the complete ebook and practice kit](https://haroonshahid.gumroad.com/l/open-redirect-explained)
+The full edition includes a 151-page PDF with 48 chapters, an offline HTML reading edition, and **Wayfinder** for optional local practice.
 
-The paid manuscript and lab are not in this repository. The preview may be shared unchanged with attribution. Practice only on systems you own or are explicitly authorized to assess.
+Practice materials include 144 answered checks, 32 guided missions, and 24 review cases. The optional lab uses Node.js 24+ to model selected OAuth checks with fictional data.
 
-The lab needs Node.js 24+. Its identity model is not a full OAuth/OIDC provider. Framework and deployment guidance requires environment-specific verification. No certification or guaranteed expertise is claimed.
+[Get Open Redirect Explained on Gumroad](https://haroonshahid.gumroad.com/l/open-redirect-explained)
+
+The preview may be shared unchanged with attribution.
+
+Written by Haroon Shahid. For questions or corrections, email [gaknt2@gmail.com](mailto:gaknt2@gmail.com). [See all free previews](../README.md).

@@ -1,13 +1,23 @@
-# Web Cache Poisoning & Deception Explained
+# Web Cache Poisoning & Deception Explained — Free Preview
 
-Know what gets stored, why requests match, and who receives the response
+![Web Cache Poisoning & Deception Explained cover](./cover.png)
 
-![Cover](cover.png)
+Follow what a web cache stores, which requests reuse it, and when a response reaches the wrong reader.
 
-[Read the free preview](Web_Cache_Poisoning_and_Deception_Explained_Expanded_Free_Preview.pdf): introduction and Chapters 1–3.
+## Read the free sample
 
-The complete guide includes 158 pages, 80 chapters, 240 explained checks, 38 worked traces and 38 local experiments with comparisons.
+The 7-page preview includes the introduction and first three chapters on caching, HTTP requests, and latency.
 
-[Get the full ebook and practice kit on Gumroad](https://haroonshahid.gumroad.com/l/web-cache-poisoning-and-deception-explained).
+- [Open the preview PDF](./Web_Cache_Poisoning_and_Deception_Explained_Expanded_Free_Preview.pdf)
 
-By Haroon Shahid. Unchanged preview may be shared with attribution.
+## Get the full learning kit
+
+The full edition includes a 158-page PDF with 80 chapters, an offline HTML reading edition, and **Orchard Cache Observatory** for optional local practice.
+
+Practice materials include 240 explained checks, 38 worked traces, and 38 local experiments. The optional lab runs on Python 3.11+ and a browser. It needs no third-party packages.
+
+[Get Web Cache Poisoning & Deception Explained on Gumroad](https://haroonshahid.gumroad.com/l/web-cache-poisoning-and-deception-explained)
+
+The preview may be shared unchanged with attribution.
+
+Written by Haroon Shahid. For questions or corrections, email [gaknt2@gmail.com](mailto:gaknt2@gmail.com). [See all free previews](../README.md).

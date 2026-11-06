@@ -1,21 +1,23 @@
-# OS Command Injection Explained - free preview
+# OS Command Injection Explained — Free Preview
 
-![Book cover](cover.png)
+![OS Command Injection Explained cover](./cover.png)
 
-A visual learning kit by **Haroon Shahid** about how input reaches interpreters, programs and operating-system authority.
+Follow input into a shell or program and see when a value is interpreted as an instruction.
 
-[Read the free preview](OS_Command_Injection_Explained_Free_Preview.pdf)
+## Read the free sample
 
-The sample contains the introduction, roadmap and Chapters 1-3: the computer behind the website, programs and processes, and the web-to-worker data flow.
+The 13-page preview includes the introduction, learning roadmap, and first three chapters.
 
-## Complete learning kit
-- 195-page linked PDF and offline HTML, with 64 illustrated chapters.
-- 192 explained knowledge checks and 149 original SVG visual assets.
-- 56 predictions, 40 guided local missions and 32 worked synthetic cases.
-- Optional ExecScope Python lab, execution passport, evidence/report templates, recipes, contract atlas, glossary, sources and linked index.
+- [Open the preview PDF](./OS_Command_Injection_Explained_Free_Preview.pdf)
 
-[Get the full ebook and practice kit on Gumroad](https://haroonshahid.gumroad.com/l/os-command-injection-explained).
+## Get the full learning kit
 
-The lab needs Python 3.11+ and free local ports 8981-8982. POSIX shell/PATH experiments need /bin/sh. It uses finite original helper samples, dummy data and fixed loopback callbacks, not a general command console or arbitrary-code sandbox. Native Windows shells and other deployment integrations are review guidance. This is education, not certification or a guarantee of results.
+The full edition includes a 195-page PDF with 64 chapters, an offline HTML reading edition, and **ExecScope** for optional local practice.
 
-The paid publication, lab and publisher sources are not included in this public preview. The preview may be shared unchanged with attribution. For help or corrections, email gaknt2@gmail.com.
+Practice materials include 192 answered checks, 40 guided missions, and 32 worked cases. The optional lab uses Python 3.11+. Shell and PATH exercises require `/bin/sh`.
+
+[Get OS Command Injection Explained on Gumroad](https://haroonshahid.gumroad.com/l/os-command-injection-explained)
+
+The preview may be shared unchanged with attribution.
+
+Written by Haroon Shahid. For questions or corrections, email [gaknt2@gmail.com](mailto:gaknt2@gmail.com). [See all free previews](../README.md).
